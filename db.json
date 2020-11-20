@@ -2,7 +2,7 @@
   "photos":[
     {
       "id": 1,
-      "name": "sunset over mount lavinia beach",
+      "name": "sunset over Mount Lavinia beach",
       "category": "sunset",
       "filePath": "",
       "location": {
@@ -18,7 +18,7 @@
   
     {
       "id": 2,
-      "name": "sunset over crow island beach",
+      "name": "sunset over Crow Island beach",
       "category": "sunset",
       "filePath": "",
       "location": {
