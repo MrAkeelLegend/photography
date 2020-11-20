@@ -1,4 +1,5 @@
- [
+ {
+  "photos":[
     {
       "id": 1,
       "name": "sunset over mount lavinia beach",
@@ -49,4 +50,6 @@
   
   
 ]
+  
+}
 
