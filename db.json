@@ -1,0 +1,51 @@
+[
+  {
+    "id": 1,
+    "name": "sunset over mount lavinia beach",
+    "category": "sunset",
+    "filePath": "",
+    "location": {
+      "Country": "Sri lanka",
+      "city": "Mount Lavinia",
+      "place": "Mount lavinia beach",
+      "geo": {
+        "lat": "-37.3159",
+        "lng": "81.1496"
+      }
+    }
+  },
+  
+  {
+    "id": 2,
+    "name": "sunset over crow island beach",
+    "category": "sunset",
+    "filePath": "",
+    "location": {
+      "Country": "Sri lanka",
+      "city": "Colombo",
+      "place": "Mattakuliya",
+      "geo": {
+        "lat": "-37.3159",
+        "lng": "81.1496"
+      }
+    }
+  },
+  
+  {
+    "id": 3,
+    "name": "sunset over Diyatha Uyana",
+    "category": "sunset",
+    "filePath": "",
+    "location": {
+      "Country": "Sri lanka",
+      "city": "Sri Jayawardanapura Kotte",
+      "place": "Diyatha Uyana",
+      "geo": {
+        "lat": "-37.3159",
+        "lng": "81.1496"
+      }
+    }
+  }
+  
+  
+]
