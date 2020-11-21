@@ -46,7 +46,23 @@
           "lng": "81.1496"
         }
       }
-    } 
+    },
+   
+   {
+      "id": 4,
+      "name": "sunset over Nelum Kulana",
+      "category": "sunset",
+      "filePath": "https://p1.pxfuel.com/preview/225/1000/969/sunset-beach-sri-lanka-ocean-indian-ocean-water.jpg",
+      "location": {
+        "Country": "Sri lanka",
+        "city": "Colombo",
+        "place": "Maradana Railway Station",
+        "geo": {
+          "lat": "-37.3159",
+          "lng": "81.1496"
+        }
+      }
+    }
   
 ]
   
