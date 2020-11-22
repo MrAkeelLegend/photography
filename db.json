@@ -62,6 +62,22 @@
           "lng": "81.1496"
         }
       }
+    },
+   
+   {
+      "id": 5,
+      "name": "sunset over Wellawatte",
+      "category": "sunset",
+      "filePath": "https://i.ibb.co/mTT66mz/IMG-20201007-181037-01.jpg",
+      "location": {
+        "Country": "Sri lanka",
+        "city": "Colombo",
+        "place": "Wellawatte Kinross Beach",
+        "geo": {
+          "lat": "-37.3159",
+          "lng": "81.1496"
+        }
+      }
     }
   
 ]
