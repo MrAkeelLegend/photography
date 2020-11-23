@@ -48,15 +48,17 @@
       }
     },
    
+   
+   
    {
       "id": 4,
-      "name": "sunset over Nelum Kulana",
+      "name": "sunset over Wellawatte",
       "category": "sunset",
-      "filePath": "https://i.ibb.co/bXckHZ8/IMG-20200221-174124-01-01.jpg",
+      "filePath": "https://i.ibb.co/mTT66mz/IMG-20201007-181037-01.jpg",
       "location": {
         "Country": "Sri lanka",
         "city": "Colombo",
-        "place": "Maradana Railway Station",
+        "place": "Wellawatte Kinross Beach",
         "geo": {
           "lat": "-37.3159",
           "lng": "81.1496"
@@ -66,13 +68,13 @@
    
    {
       "id": 5,
-      "name": "sunset over Wellawatte",
+      "name": "sunset over Nelum Kulana",
       "category": "sunset",
-      "filePath": "https://i.ibb.co/mTT66mz/IMG-20201007-181037-01.jpg",
+      "filePath": "https://i.ibb.co/bXckHZ8/IMG-20200221-174124-01-01.jpg",
       "location": {
         "Country": "Sri lanka",
         "city": "Colombo",
-        "place": "Wellawatte Kinross Beach",
+        "place": "Maradana Railway Station",
         "geo": {
           "lat": "-37.3159",
           "lng": "81.1496"
