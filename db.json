@@ -5,7 +5,6 @@
       "name": "sunset over Mount Lavinia beach",
       "category": "sunset",
       "src": "https://i.ibb.co/0DP54Th/IMG-20200229-174708-01.jpg",
-     "sizes": ["(min-width: 320px) 50vw,(min-width: 1024px) 33.3vw,100vw"],
      "width": 9,
      "height": 16,
       "location": {
@@ -24,7 +23,6 @@
       "name": "sunset over Crow Island beach",
       "category": "sunset",
       "src": "https://i.ibb.co/9sTwDPX/dav.jpg",
-     "sizes": ["(min-width: 320px) 50vw,(min-width: 1024px) 33.3vw,100vw"],
      "width": 4,
      "height": 3,
       "location": {
@@ -43,7 +41,6 @@
       "name": "sunset over Diyatha Uyana",
       "category": "sunset",
       "src": "https://i.ibb.co/J7zgpyy/bty.jpg",
-     "sizes": ["(min-width: 320px) 50vw,(min-width: 1024px) 33.3vw,100vw"],
      "width": 4,
      "height": 3,
       "location": {
@@ -64,7 +61,6 @@
       "name": "sunset over Wellawatte",
       "category": "sunset",
       "src": "https://i.ibb.co/mTT66mz/IMG-20201007-181037-01.jpg",
-    "sizes": ["(min-width: 480px) 50vw,(min-width: 1024px) 33.3vw,100vw"],
      "width": 4,
      "height": 3,
       "location": {
@@ -83,7 +79,6 @@
       "name": "sunset over Nelum Kulana",
       "category": "sunset",
       "src": "https://i.ibb.co/bXckHZ8/IMG-20200221-174124-01-01.jpg",
-    "sizes": ["(min-width: 320px) 50vw,(min-width: 1024px) 33.3vw,100vw"],
      "width": 9,
      "height": 16,
       "location": {
