@@ -4,7 +4,7 @@
       "id": 1,
       "name": "sunset over Mount Lavinia beach",
       "category": "sunset",
-      "filePath": "https://i.ibb.co/0DP54Th/IMG-20200229-174708-01.jpg",
+      "src": "https://i.ibb.co/0DP54Th/IMG-20200229-174708-01.jpg",
       "location": {
         "Country": "Sri lanka",
         "city": "Mount Lavinia",
@@ -20,7 +20,7 @@
       "id": 2,
       "name": "sunset over Crow Island beach",
       "category": "sunset",
-      "filePath": "https://i.ibb.co/9sTwDPX/dav.jpg",
+      "src": "https://i.ibb.co/9sTwDPX/dav.jpg",
       "location": {
         "Country": "Sri lanka",
         "city": "Colombo",
@@ -36,7 +36,7 @@
       "id": 3,
       "name": "sunset over Diyatha Uyana",
       "category": "sunset",
-      "filePath": "https://i.ibb.co/J7zgpyy/bty.jpg",
+      "src": "https://i.ibb.co/J7zgpyy/bty.jpg",
       "location": {
         "Country": "Sri lanka",
         "city": "Sri Jayawardanapura Kotte",
@@ -54,7 +54,7 @@
       "id": 4,
       "name": "sunset over Wellawatte",
       "category": "sunset",
-      "filePath": "https://i.ibb.co/mTT66mz/IMG-20201007-181037-01.jpg",
+      "src": "https://i.ibb.co/mTT66mz/IMG-20201007-181037-01.jpg",
       "location": {
         "Country": "Sri lanka",
         "city": "Colombo",
@@ -70,7 +70,7 @@
       "id": 5,
       "name": "sunset over Nelum Kulana",
       "category": "sunset",
-      "filePath": "https://i.ibb.co/bXckHZ8/IMG-20200221-174124-01-01.jpg",
+      "src": "https://i.ibb.co/bXckHZ8/IMG-20200221-174124-01-01.jpg",
       "location": {
         "Country": "Sri lanka",
         "city": "Colombo",
