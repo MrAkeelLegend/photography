@@ -63,7 +63,7 @@
       "id": 4,
       "name": "sunset over Wellawatte",
       "category": "sunset",
-      "sizes": ["(min-width: 320px) 50vw,(min-width: 1024px) 33.3vw,100vw"],
+      "src": "https://i.ibb.co/mTT66mz/IMG-20201007-181037-01.jpg",
     "sizes": ["(min-width: 480px) 50vw,(min-width: 1024px) 33.3vw,100vw"],
      "width": 4,
      "height": 3,
